@@ -1,5 +1,5 @@
-# College Management System
-College management system is an integrated console based application that handles various academic activities of a College. It is a mini python project that is used to keep and maintain the complete record of Students. It was developed using Python Tkinter and used sqlite3.
+# PyVersity
+PyVersity is an integrated console based application that handles various academic activities of a College. It is a python project that is used to keep and maintain the complete record of Students. It was developed using Python Tkinter and used sqlite3.
 
 
 ## What's included?
@@ -13,9 +13,4 @@ College management system is an integrated console based application that handle
 
 ## Getting Started with Development
 
-
-##### Clone Git respository:
-```
-git clone https://github.com/Prashant1099/College-Management-System.git
-```
 Great! :tada:
